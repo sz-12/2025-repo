@@ -1,0 +1,17 @@
+soul-sync-starter/
+├── public/
+│   └── favicon.svg
+├── src/
+│   ├── components/
+│   │   └── SplineScene.jsx
+│   ├── pages/
+│   │   ├── Dashboard.jsx
+│   │   └── Onboarding.jsx
+│   ├── styles/
+│   │   └── onboarding.css
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
